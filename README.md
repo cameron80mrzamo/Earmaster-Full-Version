@@ -268,4 +268,4 @@ This repository serves as the official landing page for EarMaster. The software 
 **Get the most recent version of EarMaster today!**
 
 ---
-**Last updated:** 2026-10-09 08:38:55 UTC
+**Last updated:** 2026-10-09 15:55:24 UTC
